@@ -1,0 +1,2 @@
+App that uses polymorphism and creates different classes that extend from a "mother
+class".
